@@ -25,11 +25,14 @@ font-weight: 400;
  
    }
 
-   b{
+#title {
 
    	 text-transform: uppercase;
    	 font-size:  1.5em;
    	 color:  #33485e;
+   	 font-weight: 600;
+   	 text-align: center;
+   	 margin: 20px 0 0 0;
 
    }
 
@@ -65,6 +68,24 @@ font-weight: 400;
 ul li {
 	
 	font-size: 1em;
+}
+
+.menu {
+	margin: 0px;
+	padding:  0px;
+	text-align: center;
+}
+
+.menu li {
+	display: inline;
+}
+
+#degrees{
+	margin: 5px 0 0 0;
+}
+
+#do {
+	margin: 5px 0 0 0;
 }
 
 
