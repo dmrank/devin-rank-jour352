@@ -88,5 +88,19 @@ ul li {
 	margin: 5px 0 0 0;
 }
 
+#top{
+	width: 60%;
+	min-width:  300px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+#container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+
 
 
