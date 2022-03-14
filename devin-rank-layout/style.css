@@ -1,0 +1,70 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#masthead {
+	text-align: center;
+	position:  relative;
+	color:  white;
+}
+
+#masthead img {
+	width: 100%;
+}
+
+#centered {
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 3em;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+
+}
+
+h1 {
+	font-family: Helevetica, sans-serif;	
+
+}
+
+p{
+	font-family: Georgia, serif;
+	font: 12px;
+	line-height: 18px;
+}
+
+blockquote {
+	font-size:  2em;
+	color:  white;
+	background-color: black;
+	padding: 5px;
+	width: 75%;
+	text-align: center;
+}
+
+.images figcaption {
+	font-size:  10px;
+	font-style: italic;
+}
+
+.graphic {
+	width:  900px;
+	text-align:  italic;
+}
+
+.graphic figcaption {
+	font-size: 12px;
+	font-style: italic;
+}
+
+
+
+
+
