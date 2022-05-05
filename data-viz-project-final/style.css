@@ -1,0 +1,73 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+}
+
+#masthead {
+	text-align: center;
+	position:  relative;
+	color:  black;
+}
+
+#masthead img {
+	width: 100%;
+}
+
+#centered {
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 3em;
+	font-weight:  bold;
+	font-family:  Times New Roman, serif;
+}
+
+/*This is the style of my byline, it looks different than my headline*/ 
+#byline {
+font-family: Tahoma, sans-serif;
+font-size: 14px;
+font-style: bold;
+line-height: 40px;
+
+}
+
+h1 {
+	font-family: Didot, sans-serif;	
+	padding-top: 20px;
+
+}
+
+h2 {
+	font-family: Didot, sans-serif;	
+	line-height: 40px;
+}
+
+
+/*This is the style for the text of the article*/
+p{
+	font-family: Didot, serif;
+	font: 12px;
+	line-height: 25px;
+}
+
+/*This is the style for the blockquote, aka the quote that stands out on the page*/ 
+blockquote {
+	font-size:  2em;
+	font-family: Didot, serif;
+	color: white;
+	background-color: black;
+	padding: 5px;
+	width: 100%;
+	text-align: center;
+}
+
+/*This is the style of my captions on my images*/
+figcaption {
+	font-size:  12px;
+	line-height: 35px;
+
+
+
+
